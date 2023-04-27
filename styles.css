@@ -21,7 +21,10 @@ h1{
 	border:1px solid black;
 	background:white;
 }
-.author{
-	
+
+.container1 #doe{
+	align-text:right;
+}
+.container2 #smith {
 	align-text:right;
 }
